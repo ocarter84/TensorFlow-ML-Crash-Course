@@ -20,6 +20,7 @@ For example, the first row might have the following values:
 You'll need to explore the TensorFlow documentation to solve this task.
 
 # my exercise #2 solution
+* I have not seen the solution available by choice, any pointers are appreciated! *
 import tensorflow as tf
 import numpy
 z = []
