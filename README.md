@@ -1,7 +1,6 @@
-# TensorFlow-ML-Crash-Course
-Crash Course Tensorflow ML
+# Python TensorFlow 
+Random Number Generator
 
-pre req: Creating and Manipulating Tensors
 https://colab.research.google.com/notebooks/mlcc/creating_and_manipulating_tensors.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=tensors-colab&hl=en
 
 # Exercise #2: Simulate 10 rolls of two dice.
@@ -19,9 +18,8 @@ For example, the first row might have the following values:
 
 You'll need to explore the TensorFlow documentation to solve this task.
 
-# my exercise #2 solution
-* I have not seen the solution available by choice, any pointers are appreciated! *
 
+# written in python
 
 import tensorflow as tf
 import numpy
